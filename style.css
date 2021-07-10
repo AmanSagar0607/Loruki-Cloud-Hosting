@@ -86,7 +86,7 @@ body
 .first-container-text
 {
    animation: slideInFromLeft 1s ease;
-   padding: 0 10px;
+   
 }
 .first-container h1
 {
